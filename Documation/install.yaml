@@ -1,0 +1,24 @@
+# Lime Script Installation
+
+steps:
+  - name: Clone the Lime script repository
+    command: git clone https://github.com/Neev0slid/Lime-script.git
+    path: Lime-script
+
+  - name: Install dependencies
+    command: pip install -r requirements.txt
+
+  # Uncomment the following lines if lime_script.py needs executable permissions
+  # - name: Set executable permissions (if needed)
+  #   command: chmod +x lime_script.py
+
+messages:
+  - Installation completed
+  - Lime Script has been successfully installed.
+
+  # Additional instructions or information
+  - ""
+  - To run the Lime script, use the following command:
+  - python lime_script.py
+  - ""
+

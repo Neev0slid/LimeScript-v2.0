@@ -1,0 +1,10 @@
+name: lime-script
+version: 2.0.0
+description: A powerful and versatile script for network scanning and analysis
+author: Neev_slid
+license: MIT
+dependencies:
+  - python >= 3.6
+  - requests >= 2.25.1
+  - beautifulsoup4 >= 4.9.3
+  - scapy >= 2.4.5

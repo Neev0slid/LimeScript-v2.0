@@ -1,0 +1,6 @@
+
+crack me if you can!!:
+
+c16605cd30bdee858225bfab576ca842
+
+if you crack this hash it wil give tou the password to decrypt "crackMe.txt.enc"
